@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
 	<version>1.0.0.0</version>
-	<url>https://raw.githubusercontent.com/ThangHeTanTy/InsAndUpdApp/main/SuperStarHotmail.exe</url>
-	<changelog>https://raw.githubusercontent.com/ThangHeTanTy/InsAndUpdApp/main/changelog.txt</changelog>
+	<url>https://github.com/ThangHeTanTy/ToolHotmail/releases/download/hotmailV1.0.0.0/Hotmail.zip</url>
+	<changelog>https://github.com/ThangHeTanTy/ToolHotmail/blob/main/changlog.txt</changelog>
 	<mandatory>false</mandatory>
 </item>
